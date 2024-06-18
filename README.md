@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Elijah Everett
+- 👀 I’m interested in learning more about git.
+- 🌱 I’m currently learning how to be a Full Stack Developer.
+- 📫 How to reach me: Gmail: Elijaheverett3271@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love to play keyboard.
